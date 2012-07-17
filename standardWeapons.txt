@@ -1,0 +1,60 @@
+Melee Weapons
+	Crowbar - "Crowbar"
+	Hatchet - "Hatchet"
+
+Crossbows
+	Crossbow - "Crossbow" AMMO: "BoltSteel
+
+Sidearms
+	Glock 17 - "glock17_EP1" AMMO: "17Rnd_9x19_glock17"
+	M9 - "M9" AMMO: "15Rnd_9x19_M9","15Rnd_9x19_M9SD"
+	M9 SD - "M9SD" AMMO: "15Rnd_9x19_M9SD"
+	M1911 - "Colt1911" AMMO: "7Rnd_45ACP_1911"
+	Makarov PM - "Makarov PM" AMMO: "8Rnd_9x18_Makarov"
+	PDW - "UZI_EP1" AMMO: "30Rnd_9x19_UZI
+	Revolver - "revolver_EP1" AMMO: "6Rnd_45ACP"
+
+Light Machine Guns
+	M240 - "M240" AMMO: "100Rnd_762x51_M240"
+	M249 - "M249" AMMO: "200Rnd_556x45_M249"
+	Mk 48 - "Mk_48_DZ" AMMO: "100Rnd_762x51_M240"
+
+Shotguns
+	M1014 - "M1014" AMMO: "8Rnd_B_Beneli_74Slug"
+	Remington 870 - "Remington870_lamp" AMMO: "8Rnd_B_Beneli_74Slug"
+	Winchester 1866 - "Winchester1866" AMMO: "15Rnd_W1866_Slug"
+
+Sub Machine Guns
+	Bizon SD - "bizon_silenced" AMMO: "64Rnd_9x19_Bizon"
+	MP5A5 - "MP5A5" AMMO: "30Rnd_9x19_MP5","30Rnd_9x19_MP5SD"
+	MP5SD6 - "MP5SD" AMMO: "30Rnd_9x19_MP5SD"
+
+Assault Rifles
+	AK74 - "AK_74" AMMO: "30Rnd_545x39_AK"
+	AKM - "AK_47_M" AMMO: "30Rnd_762x39_AK47"
+	AKS-74 Kobra - "AKS_74_kobra" AMMO: "30Rnd_545x39_AK"
+	AKS-74u - "AKS_74_U" AMMO: "30Rnd_545x39_AK"
+	FN FAL - "FN_FAL" AMMO: "20Rnd_762x51_FNFAL"
+	FN FAL ANPV S4 - "FN_FAL_ANPVS4" AMMO: "20Rnd_762x51_FNFAL"
+	L85A2 AWS - "BAF_L85A2_RIS_CWS" AMMO: "30Rnd_556x45_Stanag","30Rnd_556x45_StanagSD"
+	Lee Enfield - "LeeEnfield" AMMO: "10x_303"
+	M4A1 - "M4A1" AMMO: "30Rnd_556x45_Stanag","30Rnd_556x45_StanagSD"
+	M4A1 CCO - "M4A1_CCO" AMMO: "30Rnd_556x45_Stanag","30Rnd_556x45_StanagSD"
+	M4A1 Camo SD - "M4A1_Camo_SD" AMMO: "30Rnd_556x45_StanagSD"
+	M4A1 HWS M203 - "M4A1_HWS_M203" AMMO: "30Rnd_556x45_Stanag","30Rnd_556x45_StanagSD"
+	M4A3 CCO - "M4A3_CCO" AMMO: "30Rnd_556x45_Stanag","30Rnd_556x45_StanagSD"
+	M16A2 - "M16A2" AMMO: "30Rnd_556x45_Stanag","30Rnd_556x45_StanagSD"
+	M16A2 M203 - "M16A2GL" AMMO: "30Rnd_556x45_Stanag","30Rnd_556x45_StanagSD"
+	M16A4 ACOG - "M16A4_ACOG" AMMO: "30Rnd_556x45_Stanag","30Rnd_556x45_StanagSD"
+
+Sniper Rifles
+	BAF AS50 - "BAF_AS50_scoped" AMMO: "10Rnd_127x99_m107"
+	CZ550 - "huntingrifle" AMMO: "5x_22_LR_17_HMR"
+	DMR - "DMR" AMMO: "20Rnd_762x51_DMR
+	M14 EP1 - "M14_EP1" AMMO: "20Rnd_762x51_DMR"
+	M24 - "M24" AMMO: "5Rnd_762x51_M24"
+	M107 - "m107_DZ" AMMO: "10Rnd_127x99_m107"
+	SVD CAMO - "SVD_CAMO" AMMO: "10Rnd_762x54_SVD"
+
+Rocket Launchers
+	M136 - "M136" AMMO: "M136"
