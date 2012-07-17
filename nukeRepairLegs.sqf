@@ -3,8 +3,8 @@
 private["_svr"];
 
 _svr = "
-	player setHit ['legs',1];
-	player setVariable ['hit_legs',2,true];
+	player setHit ['legs',0];
+	player setVariable ['hit_legs',0,false];
 	player setVariable['medForceUpdate',true,true];
 ";
 
